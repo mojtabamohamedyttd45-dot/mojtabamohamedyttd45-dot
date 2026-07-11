@@ -5,10 +5,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
 
 <!-- نبذتك الشخصية -->
-<h3> |Mujtaba mohamed(Penetration Tester)</h3>
-<"Full-stack Developer, proficient in all programming languages, specializing in application security and vulnerability research."</p>
+<h3> |Mujtaba mohamed|(Penetration Tester)</h3>
+"Full-stack Developer, proficient in all programming languages, specializing in application security and vulnerability research."</p>
 
-<img src="[url=https://ibb.co/MyMfDPfh][img]https://i.ibb.co/MyMfDPfh/IMG-20250602-114017-441.jpg[/img][/url]" alt="My Best Friend" width="200" style="border-radius: 50%;"/> alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
+<img src="https://i.ibb.co/MyMfDPfh/IMG-20250602-114017-441.jpg" alt="My Best Friend" width="150" style="border-radius: 50%;"/>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
@@ -30,20 +30,4 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
-``````dart
-class About extends Me { 
-  const myTools = {   
-    "Languages" : { "All Languages" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Platforms" : { "Kali Linux", "Mac", "Windows" },
-    "Security" : { "PortSwigger Academy", "TryHackMe", "HackTheBox" }
-  };
-}
-class About extends Me { 
-  const myTools = {   
-    "Languages" : { "All Languages" }, // أشرت إلى أنك تتقن الكل
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Platforms" : { "Kali Linux", "Mac", "Windows" },
-    "Security" : { "PortSwigger Academy", "TryHackMe", "HackTheBox" }
-  };
-}
+````
