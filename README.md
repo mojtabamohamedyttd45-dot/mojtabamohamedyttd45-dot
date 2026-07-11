@@ -9,7 +9,7 @@
 <p>مبرمج شامل، أتقن جميع لغات البرمجة، ومتخصص في أمن التطبيقات واكتشاف الثغرات.</p>
 
 <!-- صورة كلبتك (ضع الرابط هنا بعد رفعه) -->
-<img src="ضع_رابط_صورة_كلبتك_هنا" alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
+<img src="(https://ibb.co/MyMfDPfh)" alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
