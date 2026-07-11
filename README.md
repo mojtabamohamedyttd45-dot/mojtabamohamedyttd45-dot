@@ -6,7 +6,7 @@
 
 <!-- نبذتك الشخصية -->
 <h3>مجتبي محمد | مختبر اختراق (Penetration Tester)</h3>
-<p>مبرمج شامل، أتقن جميع لغات البرمجة، ومتخصص في أمن التطبيقات واكتشاف الثغرات.</p>
+<"Full-stack Developer, proficient in all programming languages, specializing in application security and vulnerability research."</p>
 
 <!-- صورة كلبتك (ضع الرابط هنا بعد رفعه) -->
 <img src="(https://ibb.co/MyMfDPfh)" alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
