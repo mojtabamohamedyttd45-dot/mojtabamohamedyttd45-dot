@@ -8,8 +8,7 @@
 <h3> |Mujtaba mohamed(Penetration Tester)</h3>
 <"Full-stack Developer, proficient in all programming languages, specializing in application security and vulnerability research."</p>
 
-<!-- صورة كلبتك (ضع الرابط هنا بعد رفعه) -->
-<img src="([url=https://ibb.co/MyMfDPfh][img]https://i.ibb.co/MyMfDPfh/IMG-20250602-114017-441.jpg[/img][/url])" alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
+<img src="[url=https://ibb.co/MyMfDPfh][img]https://i.ibb.co/MyMfDPfh/IMG-20250602-114017-441.jpg[/img][/url]" alt="My Best Friend" width="200" style="border-radius: 50%;"/> alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
@@ -31,7 +30,15 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
-```dart
+``````dart
+class About extends Me { 
+  const myTools = {   
+    "Languages" : { "All Languages" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Platforms" : { "Kali Linux", "Mac", "Windows" },
+    "Security" : { "PortSwigger Academy", "TryHackMe", "HackTheBox" }
+  };
+}
 class About extends Me { 
   const myTools = {   
     "Languages" : { "All Languages" }, // أشرت إلى أنك تتقن الكل
