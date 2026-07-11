@@ -1,27 +1,46 @@
 <div align="center" width="50">
 
-<!-- مساحة صورة كلبتك العزيزة -->
-<img src="ضع_رابط_صورة_كلبتك_هنا" alt="My Best Friend" width="200" style="border-radius: 50%;"/> <br>
-
+<!-- الصور الأصلية -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
 
-<h3>مختبر اختراق | مبرمج | أتقن جميع لغات البرمجة</h3>
+<!-- نبذتك الشخصية -->
+<h3>مجتبي محمد | مختبر اختراق (Penetration Tester)</h3>
+<p>مبرمج شامل، أتقن جميع لغات البرمجة، ومتخصص في أمن التطبيقات واكتشاف الثغرات.</p>
 
-<!-- قسم الأغاني المفضلة من Spotify -->
+<!-- صورة كلبتك (ضع الرابط هنا بعد رفعه) -->
+<img src="ضع_رابط_صورة_كلبتك_هنا" alt="My Best Friend" width="150" style="border-radius: 50%;"/> <br>
+
 <details>
-<p><strong> <summary> 🎧 My Coding & Vibes Playlist </summary> </strong></p>
-<br>
-<!-- يمكنك استبدال الروابط بأغانيك المفضلة -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOUR_TRACK_ID_1?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOUR_TRACK_ID_2?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
+
+<!-- ضع أغانيك من Spotify هنا -->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOUR_TRACK_ID" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 </details>
 
-<br>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
 
-<!-- استمر بنفس ترتيب الأيقونات والأدوات الخاصة بك هنا -->
+<!-- قسم اللغات والأدوات الأصلي -->
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+<!-- ضع أيقوناتك الأصلية هنا -->
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+<!-- (باقي الأيقونات...) -->
+
+```dart
+// مجتبي محمد | Penetration Tester
+class About extends Me { 
+  const myTools = {   
+    "Languages" : { "All Languages" }, // أشرت إلى أنك تتقن الكل
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Platforms" : { "Kali Linux", "Mac", "Windows" },
+    "Security" : { "PortSwigger Academy", "TryHackMe", "HackTheBox" }
+  };
+}
