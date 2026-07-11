@@ -8,7 +8,7 @@
 <h3> |Mujtaba mohamed|(Penetration Tester)</h3>
 "Full-stack Developer, proficient in all programming languages, specializing in application security and vulnerability research."</p>
 
-<img src="https://i.ibb.co/MyMfDPfh/IMG-20250602-114017-441.jpg" alt="My Best Friend" width="150" style="border-radius: 50%;"/>
+<img src="https://i.postimg.cc/8P2zP79j/my-dog.jpg" alt="My Best Friend" width="200" style="border-radius: 50%;"/>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
